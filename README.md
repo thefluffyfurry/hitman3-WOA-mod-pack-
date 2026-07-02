@@ -2,5 +2,5 @@
 This was not made by me.
 Find them at
 https://github.com/OrfeasZ/ZHMModSDK
-amd
+and
 https://thepeacockproject.org/
